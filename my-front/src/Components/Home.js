@@ -131,13 +131,13 @@ const Home = () => {
     <div className="bg-[#242424] min-h-screen">
       <div className="text-center gap-20 flex mx-auto justify-center text-white font-bold pt-2">
         <a
-          className="border rounded-xl p-2 hover:border-purple-500 hover:text-purple-500 transition-colors duration-300"
+          className="border rounded-xl p-2 hover:border-blue-500 hover:text-blue-500 transition-colors duration-300"
           href="/login"
         >
           login
         </a>
         <a
-          className="border rounded-xl p-2 hover:border-purple-500 hover:text-purple-500 transition-colors duration-300"
+          className="border rounded-xl p-2 hover:border-blue-500 hover:text-blue-500 transition-colors duration-300"
           href="/register"
         >
           register
