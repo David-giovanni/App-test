@@ -8,7 +8,7 @@ const bcrypt = require("bcrypt");
 const app = express();
 const port = 4000;
 
-const url = "mongodb://localhost:27017/Test";
+const url = "mongodb://127.0.0.1:27017/Test";
 
 app.use(
   cors({
